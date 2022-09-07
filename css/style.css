@@ -908,7 +908,7 @@ footer p {
   .navbar-default .logo {
     margin-left: 20px;
     height: 140px;
-    git push -u origin mainwidth: 100px;
+    width: 100px;
   }
   .navbar-default .navbar-toggle {
     background: none !important;
